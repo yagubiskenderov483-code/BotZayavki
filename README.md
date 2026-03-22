@@ -1,7 +1,7 @@
-# Бот для заявок в приватный чат
+# NFT Gift Parser Bot
 
 ## Установка
 pip install -r requirements.txt
 
 ## Запуск
-python bot.py
+python nftParser.py
